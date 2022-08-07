@@ -4,4 +4,4 @@ WRITING IN ALL CAPS IS LIKE YELLING.
 
 Best to use your “indoor voice” sometimes, writing entirely in lowercase.
 
-Harvard CS Problem Set 0
+Harvard CS50 Problem Set 0
